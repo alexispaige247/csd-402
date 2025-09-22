@@ -1,6 +1,6 @@
 // Alexis Mitchell
 // September 14, 2025
-// This program
+// This program defines a Fan class with properties and methods to manage fan state
 
 public class Fan {  
     public static final int STOPPED = 0;
